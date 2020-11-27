@@ -1,0 +1,2 @@
+# BetSid
+app mobile
